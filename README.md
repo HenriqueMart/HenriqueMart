@@ -1,9 +1,9 @@
-### Opa, Tudo Bem, eu sou José Henrique Martins !
-- 💬 Atualmente Estou estudando Front-end!
-- 🌱 Atualmente aprendendo Javascript
-- 📫 Entra em contato no e-mail: h.martins.silva2014@gmail.com
-- ⚡ Desposto a ajuda projetos, e evoluir.
--->
+### Opa, Tudo Bem, eu sou José Henrique Martins!
+- 📚 Atualmente Estou estudando Front-end!
+- 🌱 Aprendendo Javascript!
+- 💻 Gosto Bastante de tecnologia!
+- espirito criativo🧐, aprendendo coisa nova!
+- ⚡ Desposto a ajuda projetos, e evoluir cada dia!
  <div>
   <a href="https://github.com/HenriqueMart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,3 +26,6 @@
   ##
 
 ![Snake animation](https://github.com/henriquemart/henriquemart/blob/output/github-contribution-grid-snake.svg)
+ 
+ ##
+ <p>Creditos, pelo design do perfil do git: <a href="https://github.com/rafaballerini" target="_blank"> @Rafabellerini</a></p>
