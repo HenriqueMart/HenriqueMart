@@ -1,7 +1,7 @@
 ### Opa, Tudo Bem!, eu sou José Henrique Martins!
 - 📚 Atualmente Estou estudando Front-end!
 - 🌱 Aprendendo Javascript!
-- 💻 Gosto Bastante de tecnologia!
+- 💻 ADS - Análise e Desenvolvimento de Sistema!
 - espirito criativo🧐, aprendendo coisa nova!
 - ⚡ Disposto a ajudar projetos, E evoluir cada dia!📈
 - 🎥 Minha Rede Social!📲
