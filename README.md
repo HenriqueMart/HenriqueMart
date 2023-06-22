@@ -1,5 +1,5 @@
 ### Opa, Tudo Bem!, eu sou José Henrique Martins!
-- 📚 Atualmente Estou estudando Front-end!
+- 📚 Atualmente Estou começando estudar Front-end!
 - 🌱 Aprendendo Javascript!
 - 💻 ADS - Análise e Desenvolvimento de Sistema!
 - espirito criativo🧐, aprendendo coisa nova!
