@@ -1,12 +1,12 @@
 ### Opa, Tudo Bem!, eu sou José Henrique Martins!
-- 📚 Atualmente Estou começando estudar Front-end!
-- 🌱 Aprendendo Javascript!
-- 💻 ADS - Análise e Desenvolvimento de Sistema!
-- espirito criativo🧐, aprendendo coisa nova!
-- ⚡ Disposto a ajudar projetos, E evoluir cada dia!📈
+- 📚 Estudando e programando em C. Áreas de desejo são front-end e segurança de dados.
+- 🌱 Atualmente focado no desenvolvimento da base da computação, Algoritmo e estrutura de dados.
+- 💻 Cursando ADS - Análise e Desenvolvimento de Sistema!
+- Sou um apaixonado pela tecnologia, por isso estou aprendendo a cada dia
+- ⚡ Disposto a ajudar projetos, E evoluir todos os dias!📈
 - 🎥 Minha Rede Social!📲
  <div>
-  <a href="https://instagram.com/henrique_mart18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/henriquemart_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henriquemart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
