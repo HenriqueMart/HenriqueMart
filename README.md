@@ -1,6 +1,6 @@
 ### Opa, Tudo Bem!, eu sou José Henrique Martins!
-- 📚 Estudando e programando em C. Áreas de desejo são front-end e segurança de dados.
-- 🌱 Atualmente focado no desenvolvimento da base da computação, Algoritmo e estrutura de dados.
+- 📚 Estudando e programando em JAVA. Áreas de desejo são front-end e segurança de dados.
+- 🌱 Atualmente focado no desenvolvimento da base da computação, Algoritmo, estrutura de dados e POO.
 - 💻 Cursando ADS - Análise e Desenvolvimento de Sistema!
 - Sou um apaixonado pela tecnologia, por isso estou aprendendo a cada dia
 - ⚡ Disposto a ajudar projetos, E evoluir todos os dias!📈
