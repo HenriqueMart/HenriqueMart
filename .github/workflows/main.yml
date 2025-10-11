@@ -1,23 +1,20 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Executa automaticamente
-    - cron: "0 */12 * * *" # A cada 12 horas
-  workflow_dispatch: # Permite executar manualmente
-  push: # Opcional, executa quando há push no repositório
-    branches:
-      - main
+  schedule:
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
+  workflow_dispatch:
 
 jobs:
   build:
-    name: Generate snake animation
+    name: Generate Snake
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository content
         uses: actions/checkout@v3
 
-      - name: Generate snake SVG
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: henriquemart
