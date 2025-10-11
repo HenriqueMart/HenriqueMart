@@ -23,8 +23,12 @@ Aqui você encontrará projetos que desenvolvi tanto durante meu aprendizado qua
   </a>
   
 </div>
-![GitHub Snake Animation](https://raw.githubusercontent.com/HenriqueMart/HenriqueMart/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/henriquemart/henriquemart/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![GitHub Snake Animation](https://raw.githubusercontent.com/HenriqueMart/HenriqueMart/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 
 
 ---
