@@ -8,7 +8,7 @@ Aqui você encontrará projetos que desenvolvi tanto durante meu aprendizado qua
 ---
 
 ### 🧠 Sobre mim
-- 🔭 Atualmente atuo com **Desenvolvimento Web**, focando em **UI/UX Design** e boas práticas de código;
+- 🔭 Atualmente atuo com **Desenvolvimento Web**, atuando no desenvolvimento e também no **UI/UX Design** e boas práticas de código;
 - 🌱 Estudo e desenvolvo com **React**, **Next.js** e **Tailwind CSS**;
 - 💬 Gosto de compartilhar conhecimento e receber **feedbacks construtivos** sobre meus projetos;
 - 💡 Curioso, autodidata e sempre em busca de novas formas de melhorar a experiência digital.
@@ -37,6 +37,7 @@ Aqui você encontrará projetos que desenvolvi tanto durante meu aprendizado qua
   </tr>
   <tr>
     <td align="center">
+      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
