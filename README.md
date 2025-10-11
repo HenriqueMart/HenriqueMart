@@ -80,6 +80,7 @@ Aqui você encontrará projetos que desenvolvi tanto durante meu aprendizado qua
 
 ---
 <div align="center">
-  ⭐ **“Transformando ideias em soluções digitais.”**
+  <b>⭐ “Transformando ideias em soluções digitais.”</b>
 </div>
+
 
