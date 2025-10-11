@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGZRYKiuEHL_w/profile-displaybackgroundimage-shrink_350_1400/B4DZmdZVt3JAAY-/0/1759282290872?e=1762992000&v=beta&t=i7Q5MlA38tTEvOOM6FSGhjB1DcL9ZFqIaW9oJqcCZUw" alt="Banner de fundo Henrique Martins"/>
 
-# 👋 Olá, eu sou o Henrique Martins
+# 👋 Opa Dev, Welcome!
 
 Sou **Desenvolvedor Web**, apaixonado por tecnologia e por como ela pode transformar a forma como vivemos.  
 Aqui você encontrará projetos que desenvolvi tanto durante meu aprendizado quanto em aplicações reais em andamento. 🚀  
