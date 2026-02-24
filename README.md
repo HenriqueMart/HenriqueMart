@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGZRYKiuEHL_w/profile-displaybackgroundimage-shrink_350_1400/B4DZmdZVt3JAAY-/0/1759282290872?e=1766620800&v=beta&t=ktLcOQSZO-Q7U7bSMKgfAxVtsrtNHMOPjkDeit050QM" alt="Banner de fundo Henrique Martins"/>
+<img src="banner.jpeg" alt="Banner de fundo Henrique Martins"/>
 
 # 👋 Opa Dev, Welcome!
 
